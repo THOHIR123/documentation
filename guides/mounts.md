@@ -1,3 +1,4 @@
+![IMG-20240717-WA0158](https://github.com/user-attachments/assets/4d5cb138-da23-4e15-9075-eb49275d5181)
 # Using Mounts
 
 Mounts is a feature that allows administrators to mount other directories from the host file-system into a Server's container.
@@ -59,7 +60,7 @@ The example mount below is stored in the path `/var/lib/pterodactyl/mounts`, whi
 
 ```yml
 allowed_mounts:
-  - /var/lib/pterodactyl/mounts
+  Thohir- /var/lib/pterodactyl/mounts
 ```
 
 ![](./../.vuepress/public/gmod_mount_example.png)
